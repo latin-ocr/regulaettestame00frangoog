@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./regulaettestame00frangoog_0007.png"; bbox 0 0 2354 4120; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 750 773 961 855">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 750 773 961 855">
+     <span class='ocr_line' id='line_1_1' title="bbox 750 773 961 855; baseline -0.009 -16"><span class='ocrx_word' id='word_1_1' title='bbox 750 773 961 855; x_wconf 81' lang='lat' dir='ltr'><strong>Imprimatur.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 614 932 1109 1113">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 614 932 1109 1113">
+     <span class='ocr_line' id='line_1_2' title="bbox 614 932 1109 1016; baseline -0.004 -16"><span class='ocrx_word' id='word_1_2' title='bbox 614 935 665 1002; x_wconf 80' lang='lat' dir='ltr'>Fr.</span> <span class='ocrx_word' id='word_1_3' title='bbox 681 935 841 1016; x_wconf 80' lang='lat' dir='ltr'>Benignus</span> <span class='ocrx_word' id='word_1_4' title='bbox 855 934 1011 1000; x_wconf 78' lang='lat' dir='ltr'>aJoannis</span> <span class='ocrx_word' id='word_1_5' title='bbox 1027 932 1109 998; x_wconf 74' lang='lat' dir='ltr'>villa</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 677 1041 1041 1113; baseline -0.005 -5"><span class='ocrx_word' id='word_1_6' title='bbox 677 1044 816 1113; x_wconf 82' lang='lat' dir='ltr'>Minister</span> <span class='ocrx_word' id='word_1_7' title='bbox 829 1041 1041 1108; x_wconf 77' lang='lat' dir='ltr'>provincialis.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1182 4120">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1182 4120">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1182 4120; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1182 4120; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
